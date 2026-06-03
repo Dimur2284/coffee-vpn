@@ -1,5 +1,5 @@
 # coffee-vpn
-Coffee-VPN
+Лучший DPI Vpn
 
 ---
 Разблокированные сайты и игры:
@@ -9,6 +9,7 @@ Coffee-VPN
 - Discord
 - Modrinth
 - Twitch
+- Minecraft Лицензионные Сервера (Только Minecraft Fix сервера)
 
 ---
 Основано на zapret-roblox - https://github.com/vwercay/zapret-roblox
