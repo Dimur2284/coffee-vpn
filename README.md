@@ -9,7 +9,10 @@
 - Discord
 - Modrinth
 - Twitch
-- Minecraft Лицензионные Сервера (Только Minecraft Fix сервера)
+- Minecraft Лицензионные Сервера (Minecraft Fix)
+- Pinterest
+- Geode
+- GD Музыка
 
 ---
 Основано на zapret-roblox - https://github.com/vwercay/zapret-roblox
