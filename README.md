@@ -8,11 +8,11 @@
 - Twitch
 - Discord
 - Modrinth
-- Twitch
 - Minecraft Лицензионные Сервера (Minecraft Fix)
 - Pinterest
 - Geode
 - GD Музыка
+- Gemini
 
 ---
 Основано на zapret-roblox - https://github.com/vwercay/zapret-roblox
